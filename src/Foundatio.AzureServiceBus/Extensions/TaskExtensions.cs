@@ -4,6 +4,7 @@ using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using Foundatio.AsyncEx;
 
+using Foundatio.AsyncEx;
 namespace Foundatio.Extensions {
     internal static class TaskExtensions {
         [DebuggerStepThrough]
